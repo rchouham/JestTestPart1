@@ -16,8 +16,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Even kijken of dit werkt" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/index.test.js" />
+      <test-names>
+        <test-name value="Even kijken of dit werkt" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Even kijken of dit werkt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,11 +48,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611603094849</updated>
-      <workItem from="1611603095897" duration="307000" />
+      <workItem from="1611603095897" duration="1110000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom" timestamp="1611603756041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1611603756041" />
+    <state width="1345" height="188" key="GridCell.Tab.0.center" timestamp="1611603756041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="188" key="GridCell.Tab.0.center/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1611603756041" />
+    <state width="1345" height="188" key="GridCell.Tab.0.left" timestamp="1611603756041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="188" key="GridCell.Tab.0.left/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1611603756041" />
+    <state width="1345" height="188" key="GridCell.Tab.0.right" timestamp="1611603756041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="188" key="GridCell.Tab.0.right/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1611603756041" />
   </component>
 </project>
