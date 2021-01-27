@@ -13,8 +13,6 @@ module.exports ={
     add:add,
     findByName:findByName,
 
-
-
 }
 
 function findByName (users, name) {
