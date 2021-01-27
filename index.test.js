@@ -80,20 +80,4 @@ test('findByName should return null, if the element is not found',() =>{
 
 
 
-test('nameAge should output name and age',() =>{
 
-    function nameAge(){
-        const text = nameAge('Rachid',42);
-
-
-        if(text === nameAge())
-
-            console.log('Goodmorning')
-
-        else
-            console.log('Bye Bye' );
-
-    }
-
-
-});
