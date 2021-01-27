@@ -1,7 +1,7 @@
 //2. importeren
 const add = require("./index").add;
 const findByName= require("./index").findByName;
-const nameAge=require("./index").nameAge;
+
 
 
 
@@ -11,24 +11,13 @@ const nameAge=require("./index").nameAge;
 
 
 
-test("add() function should return the sum of 4 numbers", () => {
+test("add() function should return the sum of 3 numbers", () => {
 
 
-    // console.log("hallo dit is een test,echt waar")
-    // ARRANGE
-    const number1 = 4
-    const number2 = 5
-    const number3 = 9
+    // Write me here
 
 
 
-    // ACT
-     const sum = add(number1,number2,number3)
-
-
-
-   // ASSERT (bewering/ik verwacht)
-    expect(sum).toBe(18)   // expect en toBe komen uit jest!
 
 });
 
@@ -39,11 +28,11 @@ test('findByName() returns an object from an array with a specified name', ()=>{
 
    // ARRANGE
     const users =[
-        {id:1,name:"Rachid"},
-        {id:2,name:'Brahim'},
-        {id:3,name:'Batoul'}
+        {id:1,name:""},
+        {id:2,name:''},
+        {id:3,name:''}
         ];
-    const userNameToFind = "Rachid";
+    const userNameToFind = "";
 
 
 
@@ -51,7 +40,7 @@ test('findByName() returns an object from an array with a specified name', ()=>{
   const user = findByName(users,userNameToFind);
 
  // ASSERT
-expect(user).toEqual({id:1, name:"Rachid"});
+expect(user).toEqual({id:1, name:""});
 
 });
 

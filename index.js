@@ -12,7 +12,7 @@ console.log(add(1,2, 3));
 module.exports ={
     add:add,
     findByName:findByName,
-    nameAge:nameAge,
+
 
 
 }
@@ -38,17 +38,3 @@ return null
 }
 
 
-
-function nameAge(){
-    const text = nameAge('Rachid',42);
-
-
-    if(nameAge === text)
-
-        console.log('Goodmorning')
-
-    else
-        console.log('Bye Bye' );
-
-
-}
