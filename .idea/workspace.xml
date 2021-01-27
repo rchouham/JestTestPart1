@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611603094849</updated>
-      <workItem from="1611603095897" duration="9819000" />
+      <workItem from="1611603095897" duration="37851000" />
     </task>
     <servers />
   </component>
@@ -72,5 +72,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="188" key="GridCell.Tab.0.right/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1611611440337" />
+    <state x="92" y="92" width="1182" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611676295405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="538" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1611676295405" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1611692929404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1611692929404" />
   </component>
 </project>
